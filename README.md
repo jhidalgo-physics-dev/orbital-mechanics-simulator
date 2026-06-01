@@ -42,12 +42,14 @@ Initializing the satellite at the escape velocity produces an unbound trajectory
 
 ## Physical Model
 
-The simulation uses Newton's Law of Gravitation:
+Newton's Law of Gravitation:
 
+```text
 F = GMm/r²
+```
 
 which produces the acceleration:
 
+```text
 a = -GMr/|r|³
-
-The equations of motion are integrated numerically to determine the satellite's trajectory over time.
+```
