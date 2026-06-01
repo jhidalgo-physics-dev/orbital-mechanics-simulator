@@ -53,3 +53,5 @@ which produces the acceleration:
 ```text
 a = -GMr/|r|³
 ```
+
+The equations of motion are integrated numerically to determine the satellite's trajectory over time.
