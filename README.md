@@ -20,12 +20,6 @@ The simulator models a satellite orbiting Earth and visualizes the resulting tra
 
 ## Example Output
 
-### Circular Orbit Simulation
-
-![Circular Orbit](figures/circular_orbit.png)
-
-This figure shows a satellite in low Earth orbit propagated using Newtonian gravitational dynamics.
-
 ## Orbit Types
 
 ### Circular Orbit
